@@ -1,0 +1,14 @@
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab9\Solution1\obj\Debug\net7.0\Solution1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab9\Solution1\obj\Debug\net7.0\Solution1.AssemblyInfoInputs.cache
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab9\Solution1\obj\Debug\net7.0\Solution1.AssemblyInfo.cs
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab9\Solution1\obj\Debug\net7.0\Solution1.csproj.CoreCompileInputs.cache
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab9\Solution1\bin\Debug\net7.0\Solution1.exe
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab9\Solution1\bin\Debug\net7.0\Solution1.deps.json
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab9\Solution1\bin\Debug\net7.0\Solution1.runtimeconfig.json
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab9\Solution1\bin\Debug\net7.0\Solution1.dll
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab9\Solution1\bin\Debug\net7.0\Solution1.pdb
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab9\Solution1\obj\Debug\net7.0\Solution1.dll
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab9\Solution1\obj\Debug\net7.0\refint\Solution1.dll
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab9\Solution1\obj\Debug\net7.0\Solution1.pdb
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab9\Solution1\obj\Debug\net7.0\Solution1.genruntimeconfig.cache
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab9\Solution1\obj\Debug\net7.0\ref\Solution1.dll
